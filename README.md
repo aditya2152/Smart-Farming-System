@@ -43,5 +43,5 @@ The **Smart Farming System** is an IoT and web-based project designed to automat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vikarnjha/Smart-Farming-System.git
+   [git clone https://github.com/vikarnjha/Smart-Farming-System.git](https://github.com/aditya2152/Smart-Farming-System.git)
    cd Smart-Farming-System
